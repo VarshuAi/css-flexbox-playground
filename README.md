@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Tweak flex layouts, align items, and export responsive CSS.
+  name: css-flexbox-playground version: 1.0 type: Repository author: VarshuAi description: >   Tweak flex layouts, align items, and export responsive CSS. primary_tech: CSS
 primary_tech: CSS
 ```
 
